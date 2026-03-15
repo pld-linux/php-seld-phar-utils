@@ -2,7 +2,7 @@
 Summary:	PHAR file format utilities
 Name:		php-seld-%{pkgname}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/Seldaek/phar-utils/archive/%{version}/%{pkgname}-%{version}.tar.gz
