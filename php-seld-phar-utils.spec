@@ -1,12 +1,12 @@
 %define		pkgname	phar-utils
 Summary:	PHAR file format utilities
 Name:		php-seld-%{pkgname}
-Version:	1.0.1
-Release:	2
+Version:	1.2.1
+Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/Seldaek/phar-utils/archive/%{version}/%{pkgname}-%{version}.tar.gz
-# Source0-md5:	f8d6acf6eae6c29ec7c139f224f92664
+# Source0-md5:	07b80f60fe5ee5e17d54813568929a1c
 URL:		https://github.com/Seldaek/phar-utils
 BuildRequires:	php(core) >= 5.3
 Requires:	php(core) >= 5.3.0
